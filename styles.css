@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: rgb(200,240,255)
+}
+
+.container {
+    color: rgb(175,150,100);
+    font-size: 42px;
+}
+
+.header {
+    text-align: center;
+    color: cornflowerblue;
+    font-weight: 900;
+}
+
+.container .mainUL {
+    display: inline-block;
+}
